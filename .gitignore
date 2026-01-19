@@ -1,0 +1,20 @@
+# --- Mac ---
+.DS_Store
+
+# --- Jupyter / Python ---
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# --- Environments / secrets ---
+.env
+.venv/
+venv/
+
+# --- Editor junk (Vim/Swap files) ---
+*.swp
+*.swo
+*.tmp
+
+# --- (Optional) OS trash ---
+Thumbs.db
