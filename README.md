@@ -69,6 +69,14 @@ Personal-Finance-Analytics/
 
 ---
 
+## 🧠 Skills Demonstrated
+- Data cleaning & preprocessing (pandas)
+- Handling missing & inconsistent data
+- Time-series analysis
+- Exploratory data analysis (EDA)
+- Data visualization (matplotlib)
+- Git & GitHub workflow
+
 ## 🚀 Future Improvements
 - Add interactive dashboards (Power BI / Tableau)
 - Predict future expenses using time-series models
